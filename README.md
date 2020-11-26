@@ -1,6 +1,6 @@
 # crontab-job
 ```
-file name -> settime
+file name -> <settime> -> to set time on crontab
 
 0 1 * * 6 /tmp/job2.sh  
 
