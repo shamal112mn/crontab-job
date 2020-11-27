@@ -6,7 +6,7 @@ file name -> <settime> -> to set time on crontab, use UTC time
 
 use command to set crontab:
 
-### sudo crontab settime  
+### sudo crontab settime  <- (0 1 * * 6 /tmp/job2.sh)
 
 run as sudo user
 
