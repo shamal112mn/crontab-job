@@ -1,12 +1,10 @@
 # crontab-job
 ```
-file name -> <settime> -> to set time on crontab
+file name -> <settime> -> to set time on crontab, use UTC time
 
-0 1 * * 6 /tmp/job2.sh  
+0 1 * * 6 /tmp/job2.sh  how to read -> 0min 1am-hours  *  * each Saturday run job2.sh script
 
-0min 1am-hours  *  * Sat  /tmp/job2.sh <- file location 
-
-use command
+use command to set crontab:
 
 ### sudo crontab settime  
 
