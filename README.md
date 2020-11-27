@@ -8,7 +8,7 @@ file name -> <settime> -> to set time on crontab
 
 use command
 
-### crontab settime  
+### sudo crontab settime  
 
 run as sudo user
 
